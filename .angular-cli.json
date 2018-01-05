@@ -20,7 +20,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.scss"
+        "styles.sass"
       ],
       "scripts": [
       ],
@@ -53,7 +53,7 @@
     }
   },
   "defaults": {
-    "styleExt": "scss",
+    "styleExt": "sass",
     "component": {
     }
   }
